@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I'm Grimaldus
+I'm Backend developer on Java, also know python
 
 <!--
 **GrimaldusN/GrimaldusN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
