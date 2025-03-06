@@ -1,17 +1,26 @@
-## Hi there 👋 I'm Grimaldus
-I'm Backend developer on Java, also know python
+# Hi there! I'm Oleksandr 👋
 
-<!--
-**GrimaldusN/GrimaldusN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a student aiming to become a backend developer. My main programming languages are Java and Python.
 
-Here are some ideas to get you started:
+## Current Project
+- **ConstructionProject**: A Java-based project focused on [brief description of the project].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Information
+- 📫 Email: grimaldusn@gmail.com
+- 📍 Location: Hannover, Germany
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GrimaldusN&show_icons=true&theme=radical)
+
+## Skills
+
+- **Backend Development**: Spring Boot (Data JPA, Web, Security), RESTful API  
+- **API Documentation**: Springdoc OpenAPI  
+- **Object Mapping**: MapStruct  
+- **Database Migration**: Liquibase  
+- **Authentication & Authorization**: JSON Web Token (JJWT)  
+- **Development Tools**: Lombok  
+- **Databases**: H2 (used in the project), MySQL, PostgreSQL  
+- **Version Control**: Git  
+- **Containerization**: Docker  
