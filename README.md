@@ -4,11 +4,15 @@
 I'm a student aiming to become a backend developer. My main programming languages are Java and Python.
 
 ## My Project
-- **ConstructionProject**: A Java-based project focused on monitoring quantity of construction site and quantity of materials on these sites, as well as for communication with owners of construction sites.
+- **ConstructionProject**:
+  The "ConstructionProject" is a backend application designed to monitor construction sites and manage the quantity of materials used on these sites. It also facilitates communication with the owners of the construction sites. The project uses technologies such as Spring Boot, MapStruct, Liquibase, JJWT for security, and MySQL for database management. It provides a simple solution for managing construction data and improving site management efficiency.
 
 ## Contact Information
 - 📫 Email: grimaldusn@gmail.com
 - 📍 Location: Hannover, Germany
+
+## LeetCode Status
+![LeetCode Stats](https://leetcard.jacoblin.cool/GrimaldusN?theme=dark&font=baloo&extension=activity)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GrimaldusN&show_icons=true&theme=radical)
