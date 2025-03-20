@@ -3,8 +3,8 @@
 ## About Me
 I'm a student aiming to become a backend developer. My main programming languages are Java and Python.
 
-## Current Project
-- **ConstructionProject**: A Java-based project focused on [brief description of the project].
+## My Project
+- **ConstructionProject**: A Java-based project focused on monitoring quantity of construction site and quantity of materials on these sites, as well as for communication with owners of construction sites.
 
 ## Contact Information
 - 📫 Email: grimaldusn@gmail.com
